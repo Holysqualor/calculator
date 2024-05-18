@@ -1,3 +1,7 @@
+/*
+ * Created by Holysqualor on 18.05.2024
+ */
+
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
